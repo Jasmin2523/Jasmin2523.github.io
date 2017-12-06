@@ -10,5 +10,5 @@ Camera Effect
 
 This is my camera effect project.
 
-![Jasmin](https://github.com/Jasmin2523/Jasmin2523.github.io/blob/master/Jasmin.PNG?raw=true "Optional Title")
+![Jasmin2523.github.io](https://github.com/Jasmin2523/Jasmin2523.github.io/blob/master/Jasmin.PNG?raw=true "Optional Title")
 
